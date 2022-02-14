@@ -1,0 +1,57 @@
+
+header {
+    font-size: 2em;
+    font-weight: 700;
+    font-family: Verdana;
+    margin: 40px;
+    display: block;
+    width: 100%;
+}
+
+setlist {
+    font-size: 0.8em;
+    margin: 0.5em;
+    font-family: Verdana;
+    display: block;
+}
+song {
+    display: block;
+    border: 1px solid black;
+    margin: 30px;
+    padding: 10px;
+    background-color: rgb(230, 230, 230);
+    color: black;
+}
+
+block1 {
+    display: flex;
+}
+
+title {
+    font-style: italic;
+    font-size: 1.6em;
+    margin: 5px;
+}
+
+artist {
+    font-size: 1.3em;
+    margin: 15px;
+    margin-left: 5px !important;
+}
+
+released {
+    font-size: 0.8em;
+    margin-top: 16px;
+}
+
+genres {
+    font-size: 1.2em;
+    margin-left: 5px;
+    margin-top: 5px;
+    display: grid;
+    grid-row: 1;
+}
+
+genre {
+    font-size: 0.85em;
+}

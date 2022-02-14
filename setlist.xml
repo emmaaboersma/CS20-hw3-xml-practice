@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="setlist.css"?>
+
+<band>
+    <header>Unlucky Day Setlist</header>
+    <setlist> 
+        <song id="song1" class="songs">
+            <block1>
+                <title>Yellow</title>
+                <released>2000</released>
+            </block1>
+
+            <artist>Coldplay</artist>
+            <genres>Genres
+                <genre>Alternative/Indie</genre>
+                <genre>Folk</genre>
+            </genres>
+        </song>
+
+        <song id="song2" class="songs">
+            <block1>
+                <title>Someday</title>
+                <released>2001</released>
+            </block1>
+
+            <artist>The Strokes</artist>
+            <genres>Genres
+                <genre>Alternative/Indie</genre>
+            </genres>
+        </song>
+
+        <song id="song3" class="songs">
+            <block1>
+                <title>Can't Help Falling in Love</title>
+                <released>1961</released>
+            </block1>
+
+            <artist>Elvis Presley</artist>
+            <genres>Genres
+                <genre>Pop</genre>
+                <genre>Folk</genre>
+                <genre>Rock</genre>
+                <genre>Blues</genre>
+            </genres>
+        </song>
+
+        <song id="song4" class="songs">
+            <block1>
+                <title>Best Part</title>
+                <released>2017</released>
+            </block1>
+
+            <artist>Daniel Caesar feat. H.E.R.</artist>
+            <genres>Genres
+                <genre>Acoustic</genre>
+                <genre>Indie Pop</genre>
+                <genre>R&amp;B</genre>
+            </genres>
+        </song>
+
+        <song id="song5" class="songs">
+            <block1>
+                <title>Ma Meilleure Amie</title>
+                <released>2017</released>
+            </block1>
+
+            <artist>Vald</artist>
+            <genres>Genres
+                <genre>Hip-Hop</genre>
+                <genre>French Rap</genre>
+            </genres>
+        </song>
+
+        <song id="song6" class="songs">
+            <block1>
+                <title>Say You Won't Let Go</title>
+                <released>2016</released>
+            </block1>
+
+            <artist>James Arthur</artist>
+            <genres>Genres
+                <genre>Pop</genre>
+                <genre>Folk</genre>
+                <genre>R&amp;B</genre>
+            </genres>
+        </song>
+
+        <song id="song7" class="songs">
+            <block1>
+                <title>ILYSB</title>
+                <released>2016</released>
+            </block1>
+
+            <artist>Lany</artist>
+            <genres>Genres
+                <genre>Electronic Pop</genre>
+                <genre>Indie Pop</genre>
+            </genres>
+        </song>
+
+        <song id="song8" class="songs">
+            <block1>
+                <title>Love on Top</title>
+                <released>2011</released>
+            </block1>
+
+            <artist>Beyonce</artist>
+            <genres>Genres
+                <genre>R&amp;B</genre>
+                <genre>Pop</genre>
+            </genres>
+        </song>
+
+        <song id="song9" class="songs">
+            <block1>
+                <title>You Were Beautiful</title>
+                <released>2017</released>
+            </block1>
+
+            <artist>Day6</artist>
+            <genres>Genres
+                <genre>Rock</genre>
+                <genre>K-Pop</genre>
+            </genres>
+        </song>
+
+        <song id="song10" class="songs">
+            <block1>
+                <title>Home</title>
+                <released>2009</released>
+            </block1>
+
+            <artist>Edward Sharpe &amp; The Magnetic Zeros</artist>
+            <genres>Genres
+                <genre>Alternative/Indie</genre>
+                <genre>Folk</genre>
+            </genres>
+        </song>
+
+    </setlist>
+</band>
